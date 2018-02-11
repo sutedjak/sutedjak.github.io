@@ -1,0 +1,61 @@
+body {
+	background: url("../images/borobudur.jpg");
+	background-size: cover;
+}
+h1 {
+	color: yellow;
+	font-family: Arial;
+	font-size: 40px;
+}
+h2 {
+	color: white;
+	font-size: 24px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+h3 {
+	color: yellow;
+	font-family: 20px;
+	font-size: 30px
+	text center
+}
+.alpha {
+	max-width: 100%;
+	margin-top: 60px;
+	margin-bottom: 150px;
+	border-style: solid white;
+	border-width: 5px;
+}
+.beta {
+	max-width: 100%;
+	margin-top: 60px;
+	margin-bottom: 150px;
+	border-style: solid white;
+	border-width: 5px;
+}
+.jones {
+	max-width: 100%;
+	margin-top: 60px;
+	margin-bottom: 150px;
+	border-style: solid white;
+	border-width: 5px;
+}
+.zoe {
+	max-width: 100%;
+	margin-top: 60px;
+	margin-bottom: 150px;
+	border-style: solid white;
+	border-width: 5px;
+}
+.young {
+	max-width: 100%;
+	margin-top: 60px;
+	margin-bottom: 150px;
+	border-style: solid white;
+	border-width: 5px;
+}
+.prior {
+	max-width: 100%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
