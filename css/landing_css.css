@@ -59,3 +59,17 @@ h3 {
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
+.accomodation {
+	padding-left: 24px;
+	padding-right: 24px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+}
+
+.footer-row {
+	background-color: white;
+	height: 60px;
+	color: white;
+	font-size: 32px;
+}
+
